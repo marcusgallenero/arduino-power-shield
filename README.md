@@ -13,4 +13,4 @@ The board implements a step-down voltage regulator to power a bank of LEDs while
 
 ## Challenges / Fixes
 - **Obsolete Part Footprints**:
-Used [Component Search Engine](https://componentsearchengine.com/) & [Octopart](https://octopart.com/) to search for alternatives, and download relevant files.
+Majority of parts in outline did not have a valid footprint. Used [Component Search Engine](https://componentsearchengine.com/) & [Octopart](https://octopart.com/) to search for alternatives, and download relevant files.
