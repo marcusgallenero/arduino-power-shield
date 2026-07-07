@@ -14,3 +14,6 @@ The board implements a step-down voltage regulator to power a bank of LEDs while
 ## Challenges / Fixes
 - **Obsolete Part Footprints**:
 Majority of parts in outline did not have a valid footprint. Used [Component Search Engine](https://componentsearchengine.com/) & [Octopart](https://octopart.com/) to search for alternatives, and download relevant files.
+
+- **Unfamiliarity with Software**:
+First ever PCB design project, and unfamiliarity with Altium Designer and General PCB Design Process created lots of confusion during the entire design process. Watched A LOT of videos from [Altium Academy](https://www.youtube.com/channel/UCWLoHp3WJG_ats8waVCu7Mw), and embracing the power of perseverance :)
